@@ -1,0 +1,89 @@
+{
+    "name": "Sunrise Opera",
+    "description": "Cool sunrise version of Opera :)",
+    "developer":
+    {
+        "name": "Shadwow"
+    },
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod":
+    {
+        "license": "license.txt",
+        "payload":
+        {
+            "background_music":
+            [
+                "music/track_1.mp3"
+            ],
+            "browser_sounds":
+            {
+                "HOVER":
+                [
+                    "sound/hover.mp3"
+                ],
+                "TAB_CLOSE":
+                [
+                    "sound/close_tab.mp3"
+                ],
+                "TAB_INSERT":
+                [
+                    "sound/new_tab.mp3"
+                ]
+            },
+            "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 236,
+                        "s": 100,
+                        "l": 40
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 236,
+                        "s": 100,
+                        "l": 16
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 15,
+                        "s": 44,
+                        "l": 43
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 16,
+                        "s": 58,
+                        "l": 57
+                    }
+                }
+            },
+            "wallpaper":
+            {
+                "dark":
+                {   
+                    "image": "wallpaper/dark.png",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#757575"
+                },
+                "light":
+                {
+                    "image": "wallpaper/light.png",
+                    "text_color": "#fff",
+                    "text_shadow": "#0B000E"
+                }
+            }
+        },
+        "schema_version": 1
+    },
+    "version": "1.0"
+}

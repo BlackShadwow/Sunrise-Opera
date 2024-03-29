@@ -1,0 +1,53 @@
+EN :
+This is my first mod, please be indulgent!
+It will be regularly updated to incorporate new features and various improvements.
+I am, of course, open to different opinions to help me enhance it.
+
+FR :
+Ceci est mon premier mod, veuillez etre indulgent !
+Celui-ci sera regulierement mis a jour pour inclure de nouvelles fonctionnalites et des ameliorations diverses.
+Je reste bien evidemment ouvert à differents avis pour m'aider à l'ameliorer.
+
+ _____       	 _   _
+|     |___ ___ _| |_| |_ ___ 
+|   --|  _| -_| . | |  _|_ -|
+|_____|_| |___|___|_|_| |___|
+...............................................................................
+
+Creator : Shadwow
+                                                              
+ __    _                         
+|  |  |_|___ ___ ___ ___ ___ ___ 
+|  |__| |  _| -_|   |  _| -_|_ -|
+|_____|_|___|___|_|_|___|___|___|
+...............................................................................
+      
+EN :
+
+Freeware mod License
+
+1. Use
+   You are granted permission to use the mod for personal or professional purposes at no cost, subject to the following conditions.
+
+2. Restrictions
+   You may not:
+   - Modify or redistribute the mod.
+   - Remove copyright notices.
+
+By using this software, you agree to these terms.
+         
+
+
+FR :
+
+Licence de mod Freeware
+
+1. Utilisation
+   Vous êtes autorise à utiliser gratuitement le mod a des fins personnelles ou professionnelles, sous reserve des conditions suivantes.
+
+2. Restrictions
+   Vous ne pouvez pas :
+   - Modifier ou redistribuer le mod.
+   - Supprimer les mentions de droits d'auteur.
+
+En utilisant ce logiciel, vous acceptez ces conditions.
